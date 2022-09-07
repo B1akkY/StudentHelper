@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Grade">
+        <item>ИКБО-01-18</item>
+        <item>ИКБО-02-18</item>
+        <item>ИКБО-03-18</item>
+        <item>ИКБО-13-18</item>
+    </string-array>
+    <string-array name="Contacs">
+        <item>ИППО</item>
+        <item>ВТ</item>
+        <item>КИС</item>
+        <item>МОСИТ</item>
+    </string-array>
+    <string-array name="Literature">
+        <item>Код. Тайный язык информатики, Чарльз Петцольд</item>
+        <item>Операционная система UNIX, Ольга Стесик, Сергей Немнюгин, Андрей Робачевский</item>
+        <item>Структура и Интерпретация Компьютерных Программ, Абельсон Харольд, Сассман Джеральд Джей</item>
+    </string-array>
+</resources>
